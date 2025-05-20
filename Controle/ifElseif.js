@@ -17,3 +17,4 @@ const resultado = function (nota){
 }
 
 resultado(5)
+
