@@ -1,6 +1,7 @@
 // Função em JS é First-Class Object (Citizens)
 // Highet-order function
 
+
 //criar de forma literal 
 function fun1(c, d) { 
     return c * d
