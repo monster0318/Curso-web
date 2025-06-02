@@ -4,6 +4,7 @@ while (contador <= 10) {
     contador++
 }
 
+
 for(i = 1; i <= 10; i++) {
     console.log('i = ',i)
 }
